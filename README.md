@@ -80,36 +80,65 @@ directly from the field.
 
 ### Mobile Application
 
-#### Login
+<table>
+<tr>
+<td align="center"><b>Login</b></td>
+<td align="center"><b>Dashboard</b></td>
+</tr>
 
-<img src="./images/Login.jpeg" alt="Login Screen" width="300">
+<tr>
+<td>
+<img src="./images/Login.jpeg" alt="Login Screen" width="250">
+</td>
+<td>
+<img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="250">
+</td>
+</tr>
 
-#### Dashboard
+<tr>
+<td align="center"><b>Plant Management</b></td>
+<td align="center"><b>Create Service</b></td>
+</tr>
 
-<img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="300">
+<tr>
+<td>
+<img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="250">
+</td>
+<td>
+<img src="./images/Create%20Service.jpeg" alt="Create Service" width="250">
+</td>
+</tr>
 
-#### Plant Management
+<tr>
+<td align="center"><b>Service Management</b></td>
+<td></td>
+</tr>
 
-<img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="300">
-
-#### Create Service
-
-<img src="./images/Create%20Service.jpeg" alt="Create Service" width="300">
-
-#### Service Management
-
-<img src="./images/Service%20Screen.jpeg" alt="Service Screen" width="300">
+<tr>
+<td>
+<img src="./images/Service%20Screen.jpeg" alt="Service Screen" width="250">
+</td>
+<td></td>
+</tr>
+</table>
 
 ### Desktop Application
 
-#### Service Entry
+<table>
+<tr>
+<td align="center"><b>Service Entry</b></td>
+<td align="center"><b>Service Report</b></td>
+</tr>
 
-<img src="./images/Service%20Entry.png" alt="Service Entry" width="800">
-
-#### Service Report
-
-<img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="800">
-
+<tr>
+<td>
+<img src="./images/Service%20Entry.png" alt="Service Entry" width="500">
+</td>
+<td>
+<img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="500">
+</td>
+</tr>
+</table>
 ## System Architecture
 
 ```text
