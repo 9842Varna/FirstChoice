@@ -80,62 +80,53 @@ directly from the field.
 
 ### Mobile Application
 
-<table>
+<table border="0">
 <tr>
-<td align="center"><b>Login</b></td>
-<td align="center"><b>Dashboard</b></td>
-</tr>
-
-<tr>
-<td>
-<img src="./images/Login.jpeg" alt="Login Screen" width="250">
+<td align="center">
+<b>Login</b><br><br>
+<img src="./images/Login.jpeg" width="250">
 </td>
-<td>
-<img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="250">
+
+<td align="center">
+<b>Dashboard</b><br><br>
+<img src="./images/Dashboard%20Screen.jpeg" width="250">
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>Plant Management</b></td>
-<td align="center"><b>Create Service</b></td>
-</tr>
-
-<tr>
-<td>
-<img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="250">
+<td align="center">
+<b>Plant Management</b><br><br>
+<img src="./images/Plant%20Screen.jpeg" width="250">
 </td>
-<td>
-<img src="./images/Create%20Service.jpeg" alt="Create Service" width="250">
+
+<td align="center">
+<b>Create Service</b><br><br>
+<img src="./images/Create%20Service.jpeg" width="250">
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>Service Management</b></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-<img src="./images/Service%20Screen.jpeg" alt="Service Screen" width="250">
+<td align="center">
+<b>Service Management</b><br><br>
+<img src="./images/Service%20Screen.jpeg" width="250">
 </td>
+
 <td></td>
 </tr>
 </table>
 
 ### Desktop Application
 
-<table>
+<table border="0">
 <tr>
-<td align="center"><b>Service Entry</b></td>
-<td align="center"><b>Service Report</b></td>
-</tr>
-
-<tr>
-<td>
-<img src="./images/Service%20Entry.png" alt="Service Entry" width="500">
+<td align="center">
+<b>Service Entry</b><br><br>
+<img src="./images/Service%20Entry.png" width="500">
 </td>
-<td>
-<img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="500">
+
+<td align="center">
+<b>Service Report</b><br><br>
+<img src="./images/Service%20Report%20Screen.png" width="500">
 </td>
 </tr>
 </table>
