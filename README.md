@@ -74,3 +74,36 @@ SQL Server Database
        | REST APIs
        |
 React Native Mobile Application
+## Screenshots
+
+### Mobile Application
+
+#### Login
+
+![Login Screen](./images/Login.jpeg)
+
+#### Dashboard
+
+![Dashboard Screen](./images/Dashboard%20Screen.jpeg)
+
+#### Plant Management
+
+![Plant Screen](./images/Plant%20Screen.jpeg)
+
+#### Create Service
+
+![Create Service](./images/Create%20Service.jpeg)
+
+#### Service Management
+
+![Service Screen](./images/Service%20Screen.jpeg)
+
+### Desktop Application
+
+#### Service Entry
+
+![Service Entry](./images/Service%20Entry.png)
+
+#### Service Report
+
+![Service Report](./images/Service%20Report%20Screen.png)
