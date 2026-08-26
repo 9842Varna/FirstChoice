@@ -80,55 +80,36 @@ directly from the field.
 
 ### Mobile Application
 
-<p align="center">
-  <strong>Login</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Dashboard</strong>
-</p>
+#### Login
 
-<p align="center">
-  <img src="./images/Login.jpeg" alt="Login Screen" width="250">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="250">
-</p>
+<img src="./images/Login.jpeg" alt="Login Screen" width="300">
 
-<br>
+#### Dashboard
 
-<p align="center">
-  <strong>Plant Management</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Create Service</strong>
-</p>
+<img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="300">
 
-<p align="center">
-  <img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="250">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/Create%20Service.jpeg" alt="Create Service" width="250">
-</p>
+#### Plant Management
 
-<br>
+<img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="300">
 
-<p align="center">
-  <strong>Service Management</strong>
-</p>
+#### Create Service
 
-<p align="center">
-  <img src="./images/Service%20Screen.jpeg" alt="Service Management" width="250">
-</p>
+<img src="./images/Create%20Service.jpeg" alt="Create Service" width="300">
+
+#### Service Management
+
+<img src="./images/Service%20Screen.jpeg" alt="Service Screen" width="300">
 
 ### Desktop Application
 
-<p align="center">
-  <strong>Service Entry</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Service Report</strong>
-</p>
+#### Service Entry
 
-<p align="center">
-  <img src="./images/Service%20Entry.png" alt="Service Entry" width="500">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="500">
-</p>
+<img src="./images/Service%20Entry.png" alt="Service Entry" width="800">
+
+#### Service Report
+
+<img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="800">
+
 ## System Architecture
 
 ```text
