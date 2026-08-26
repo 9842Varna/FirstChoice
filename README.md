@@ -80,56 +80,26 @@ directly from the field.
 
 ### Mobile Application
 
-<table border="0">
-<tr>
-<td align="center">
-<b>Login</b><br><br>
-<img src="./images/Login.jpeg" width="250">
-</td>
+<p align="center">
+  <img src="./images/Login.jpeg" alt="Login Screen" width="250">
+  <img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="250">
+</p>
 
-<td align="center">
-<b>Dashboard</b><br><br>
-<img src="./images/Dashboard%20Screen.jpeg" width="250">
-</td>
-</tr>
+<p align="center">
+  <img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="250">
+  <img src="./images/Create%20Service.jpeg" alt="Create Service" width="250">
+</p>
 
-<tr>
-<td align="center">
-<b>Plant Management</b><br><br>
-<img src="./images/Plant%20Screen.jpeg" width="250">
-</td>
-
-<td align="center">
-<b>Create Service</b><br><br>
-<img src="./images/Create%20Service.jpeg" width="250">
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Service Management</b><br><br>
-<img src="./images/Service%20Screen.jpeg" width="250">
-</td>
-
-<td></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./images/Service%20Screen.jpeg" alt="Service Management" width="250">
+</p>
 
 ### Desktop Application
 
-<table border="0">
-<tr>
-<td align="center">
-<b>Service Entry</b><br><br>
-<img src="./images/Service%20Entry.png" width="500">
-</td>
-
-<td align="center">
-<b>Service Report</b><br><br>
-<img src="./images/Service%20Report%20Screen.png" width="500">
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./images/Service%20Entry.png" alt="Service Entry" width="500">
+  <img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="500">
+</p>
 ## System Architecture
 
 ```text
