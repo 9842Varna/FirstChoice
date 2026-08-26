@@ -1,80 +1,76 @@
 # RenewCare
 
-A multi-platform maintenance management system designed to streamline
-industrial equipment monitoring and service operations.
+## Multi-Platform Maintenance Management System
 
-## Overview
+## About the Project
 
-RenewCare integrates a desktop application and React Native mobile
-application through Spring Boot REST APIs and a centralized SQL Server
-database. It enables administrators and technicians to manage plants,
-equipment, service requests, maintenance activities, and spare parts
-with real-time data synchronization.
+RenewCare is a multi-platform maintenance management system designed
+to streamline industrial equipment monitoring and service operations.
 
-## Tech Stack
+The system integrates a desktop application and a React Native mobile
+application through Spring Boot REST APIs, with SQL Server as the
+centralized database.
 
-- React Native
-- JavaScript
-- Spring Boot
-- REST APIs
-- SQL Server
-- PowerBuilder
-- Postman
-- Expo Go
+## Project Objective
+
+The objective of RenewCare is to improve maintenance operations by
+providing centralized equipment management, service tracking, and
+real-time maintenance updates.
+
+## Technology Stack
+
+| Category | Technology |
+|----------|------------|
+| Mobile Application | React Native |
+| Desktop Application | PowerBuilder |
+| Backend | Spring Boot |
+| APIs | REST APIs |
+| Database | SQL Server |
+| API Testing | Postman |
+| Mobile Runtime | Expo Go |
 
 ## Key Features
 
-- Secure user authentication
-- Plant management
-- Equipment tracking
-- Service request management
-- Service assignment and execution
-- Maintenance status updates
-- Spare-parts management
-- Real-time data synchronization
-- Search and filter functionality
+### Authentication
+- User authentication
 - Role-based access for Admin and Technician
+
+### Plant Management
+- Plant information management
+- Plant and equipment association
+
+### Equipment Management
+- Equipment information management
+- Equipment tracking
+
+### Service Request Management
+- Service request creation
+- Service request tracking
+- Technician assignment
+
+### Service Execution
+- Assigned service viewing
+- Maintenance activity updates
+- Service status updates
+
+### Parts Management
+- Spare-parts management
+- Parts usage tracking
+- Quantity and cost management
 
 ## System Architecture
 
-React Native / Desktop Application
-        ↓
-Spring Boot REST APIs
-        ↓
+```text
+Desktop Application
+       |
+       | REST APIs
+       v
+Spring Boot Backend
+       |
+       v
 SQL Server Database
-
-## Modules
-
-### Admin
-- Plant management
-- Equipment management
-- Customer management
-- Service request management
-- Technician assignment
-- Dashboard
-
-### Technician
-- View assigned service requests
-- Update availability
-- Update service status
-- Record service details
-- Manage spare parts
-- Upload service documents
-
-## Testing
-
-APIs were tested using Postman.
-The application was tested using unit, integration, and validation
-testing approaches.
-
-## Future Enhancements
-
-- Predictive maintenance
-- Cloud integration
-- Push notifications
-- Analytics dashboards
-- Decision-support features
-
-## Author
-
-Varnasri R
+       ^
+       |
+       | REST APIs
+       |
+React Native Mobile Application
