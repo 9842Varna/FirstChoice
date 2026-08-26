@@ -81,13 +81,35 @@ directly from the field.
 ### Mobile Application
 
 <p align="center">
+  <strong>Login</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dashboard</strong>
+</p>
+
+<p align="center">
   <img src="./images/Login.jpeg" alt="Login Screen" width="250">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="250">
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Plant Management</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Create Service</strong>
 </p>
 
 <p align="center">
   <img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="250">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/Create%20Service.jpeg" alt="Create Service" width="250">
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Service Management</strong>
 </p>
 
 <p align="center">
@@ -97,7 +119,14 @@ directly from the field.
 ### Desktop Application
 
 <p align="center">
+  <strong>Service Entry</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Service Report</strong>
+</p>
+
+<p align="center">
   <img src="./images/Service%20Entry.png" alt="Service Entry" width="500">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="500">
 </p>
 ## System Architecture
