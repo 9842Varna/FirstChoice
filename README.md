@@ -58,6 +58,32 @@ real-time maintenance updates.
 - Parts usage tracking
 - Quantity and cost management
 
+## Screenshots
+
+### Mobile Application
+
+#### Login
+<img src="./images/Login.jpeg" alt="Login Screen" width="300">
+
+#### Dashboard
+<img src="./images/Dashboard%20Screen.jpeg" alt="Dashboard Screen" width="300">
+
+#### Plant Management
+<img src="./images/Plant%20Screen.jpeg" alt="Plant Screen" width="300">
+
+#### Create Service
+<img src="./images/Create%20Service.jpeg" alt="Create Service" width="300">
+
+#### Service Management
+<img src="./images/Service%20Screen.jpeg" alt="Service Screen" width="300">
+
+### Desktop Application
+
+#### Service Entry
+<img src="./images/Service%20Entry.png" alt="Service Entry" width="800">
+
+#### Service Report
+<img src="./images/Service%20Report%20Screen.png" alt="Service Report" width="800">
 ## System Architecture
 
 ```text
